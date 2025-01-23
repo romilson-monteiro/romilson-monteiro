@@ -31,7 +31,6 @@ I’m currently pursuing a **Master’s in Computer Engineering** at the Polytec
 
 ## 🌍 Where I’m Based
 - 📍 Located in Portugal
-- ✉️ Reach me at **[romilson.monteiro@example.com](mailto:romilson.monteiro@example.com)**
 
 ---
 
