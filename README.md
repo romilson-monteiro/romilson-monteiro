@@ -1,45 +1,54 @@
-# Hi there 👋
+# Hi! 👋 My name is Romilson Monteiro
 
-Welcome to my GitHub profile! I'm **Romilson Monteiro**, a tech enthusiast and developer passionate about creating innovative solutions. 🚀
+<div style="display: flexbox; flex-direction: row;">
+    <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=romilson-monteiro&show_icons=true&theme=github_dark">
+    <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romilson-monteiro&layout=compact&theme=github_dark">
+</div>
+
+---
+
+## Main Skills
+<div><br/>
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+    <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
+</div>
 
 ---
 
 ## About Me
-Hello! I’m a **Software Developer**  with a knack for solving complex problems and creating impactful solutions. 
+Hello! I’m a **Front-end Developer** and **UI Designer** with a passion for creating impactful solutions and solving complex problems. 
 
-Currently pursuing a **Master’s in Computer Engineering** at the Polytechnic Institute of Viana do Castelo, I specialize in **web development**, **cyber-physical systems**, and **IoT**. My passion lies in building user-centric applications and contributing to projects that make a difference.
-
----
-
-## What I’m Up To
-- 🔭 **Currently Working On:** Building dynamic and interactive web applications.
-- 🌱 **Learning:** Mastering **React** to craft modern, scalable, and high-performance interfaces.
-- 👯 **Collaborating On:** Open-source projects in **education** and **community development**.
-- 🤔 **Seeking Help With:** Optimizing performance for large-scale web applications.
-- ⚡ **Fun Fact:** I enjoy exploring new programming languages and leveraging them for creative coding.
+I’m currently pursuing a **Master’s in Computer Engineering** at the Polytechnic Institute of Viana do Castelo. My focus lies in **web development**, **cyber-physical systems**, and **IoT**. I’m also working on mastering **React** to build scalable and high-performance user interfaces.
 
 ---
 
-## GitHub Stats
-
-![Romilson Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=romilson-monteiro&show_icons=true&theme=tokyonight)
-
----
-
-## Skills & Tools
-- **Languages:** JavaScript, Python, SQL, HTML, CSS, C# blazor
-- **Frameworks & Libraries:** React, Node.js, Blazor
-- **Databases:** SQL Server, PostgreSQL, MongoDB, Firebase
-- **Tools:** Docker, Git, Nmap, Wireshark
+## 🌍 Where I’m Based
+- 📍 Located in Portugal
+- ✉️ Reach me at **[romilson.monteiro@example.com](mailto:romilson.monteiro@example.com)**
 
 ---
 
-## Connect with Me
-- 🌐 [Portfolio]([https://romilson-monteiro.github.io](https://romilson-monteiro.github.io/myportfolio/#contact))
-- 💼 [LinkedIn](https://www.linkedin.com/in/romilson-tavares-monteiro/)
-
+## 🌐 Connect with Me
+<div>
+    <a href="mailto:romilson.monteiro@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/romilson-monteiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://romilson-monteiro.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
+## Fun Facts
+- 🌱 I’m learning **React** to create dynamic and modern user interfaces.
+- 🔭 I’m currently working on **interactive web applications**.
+- ⚡ Fun fact: I enjoy exploring new programming languages for creative coding!
 
-Thanks for visiting my profile! 😊 Feel free to explore my repositories or reach out to collaborate on exciting projects! 🌟
+---
+
+Thanks for visiting my profile! 😊 Feel free to explore my repositories and reach out to collaborate! 🌟
