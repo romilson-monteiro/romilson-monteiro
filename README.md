@@ -26,9 +26,11 @@
 Hello! I’m a **Front-end Developer** and **UI Designer** with a passion for creating impactful solutions and solving complex problems. 
 
 I’m currently pursuing a **Master’s in Computer Engineering** at the Polytechnic Institute of Viana do Castelo. My focus lies in **web development**, **cyber-physical systems**, and **IoT**. I’m also working on mastering **React** to build scalable and high-performance user interfaces.
-
-    <a href="https://romilson-monteiro.github.io/myportfolio/" target="_blank"> 👉 Visit my portfolio here  </a>
+<div>
+ <a href="https://romilson-monteiro.github.io/myportfolio/" target="_blank"> 👉 Visit my portfolio here  </a>
   
+</div>
+   
 ---
 
 ## 🌍 Where I’m Based
